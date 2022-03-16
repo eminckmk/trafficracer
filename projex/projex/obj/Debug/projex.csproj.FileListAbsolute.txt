@@ -1,0 +1,23 @@
+C:\Users\MERKEZ\source\repos\projex\projex\bin\Debug\projex.exe.config
+C:\Users\MERKEZ\source\repos\projex\projex\bin\Debug\projex.exe
+C:\Users\MERKEZ\source\repos\projex\projex\bin\Debug\projex.pdb
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.csprojAssemblyReference.cache
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.Form1.resources
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.Properties.Resources.resources
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.csproj.GenerateResource.cache
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.csproj.CoreCompileInputs.cache
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.exe
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.pdb
+C:\Users\MERKEZ\source\repos\projex\projex\obj\Debug\projex.GirisEkrani.resources
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\bin\Debug\projex.exe.config
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\bin\Debug\projex.exe
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\bin\Debug\projex.pdb
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.csprojAssemblyReference.cache
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.Form1.resources
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.GirisEkrani.resources
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.Properties.Resources.resources
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.csproj.GenerateResource.cache
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.csproj.CoreCompileInputs.cache
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.exe
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.pdb
+C:\Users\MERKEZ\Desktop\Yeni klasör (2)\projex\projex\obj\Debug\projex.NasilOynanir.resources
